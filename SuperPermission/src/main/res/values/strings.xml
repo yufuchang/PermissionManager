@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PermissionManager</string>
+
+    <!--权限管理-->
+    <string name="permission_dialog_title">提示</string>
+    <string name="permission_message_always_failed">您已禁止授予%1$s %2$s 权限，可能会造成功能不可用，如需使用请到设置里授予权限</string>
+    <string name="permission_grant_fail">您已禁止授予%1$s %2$s 权限</string>
+
+    <string name="permission_open_cloud_plus">开启%1$s</string>
+    <string name="permission_necessary_permission">为了您能正常使用%1$s，需要以下权限</string>
+    <string name="permission_phone_permission">设备信息</string>
+    <string name="permission_call_phone_permission">拨打电话</string>
+    <string name="permission_storage_permission">存储空间</string>
+    <string name="permission_next">下一步</string>
+    <string name="permission_grant_window_alert">请您授予%1$s悬浮窗权限</string>
+    <string name="permission_grant_window_fail">您已禁止授予%1$s 悬浮窗权限</string>
+
+    <string name="permission_name_calendar">日历</string>
+    <string name="permission_name_camera">相机</string>
+    <string name="permission_name_contacts">通讯录</string>
+    <string name="permission_name_location">位置信息</string>
+    <string name="permission_name_microphone">麦克风</string>
+    <string name="permission_name_phone">电话</string>
+    <string name="permission_name_sensors">身体传感器</string>
+    <string name="permission_name_sms">短信</string>
+    <string name="permission_name_storage">存储空间</string>
+
+    <string name="ok">确定</string>
+    <string name="settings">设置</string>
+</resources>

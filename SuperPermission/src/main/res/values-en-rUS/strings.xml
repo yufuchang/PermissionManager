@@ -1,0 +1,30 @@
+<resources>
+    <!--权限管理-->
+    <string name="permission_dialog_title">Tips</string>
+    <string name="permission_message_always_failed">You have forbidden granting %1$s %2$s permission, which may cause the function to be unavailable. If you need to use it, please go to the settings to grant permission.</string>
+    <string name="permission_grant_fail">You have forbidden granting %1$s %2$s permission</string>
+    <string name="permission_grant_window_alert">Please grant %1$s suspension window permission</string>
+    <string name="permission_grant_window_fail">You have forbidden granting %1$s suspension window permission</string>
+
+    <string name="permission_open_cloud_plus">Open %1$s</string>
+    <string name="permission_necessary_permission">In order for you to use the %1$s properly, you need the following permissions</string>
+    <string name="permission_phone_permission">Phone</string>
+    <string name="permission_call_phone_permission">Call Phone</string>
+    <string name="permission_storage_permission">Storage</string>
+    <string name="permission_next">Next</string>
+
+    <string name="permission_name_calendar">Calendar</string>
+    <string name="permission_name_camera">Camera</string>
+    <string name="permission_name_contacts">Contacts</string>
+    <string name="permission_name_location">Location</string>
+    <string name="permission_name_microphone">Microphone</string>
+    <string name="permission_name_phone">Phone</string>
+    <string name="permission_name_sensors">Body Sensors</string>
+    <string name="permission_name_sms">SMS</string>
+    <string name="permission_name_storage">Storage</string>
+
+
+    <string name="ok">OK</string>
+    <string name="settings">Setting</string>
+
+</resources>
